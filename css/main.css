@@ -65,7 +65,11 @@ html {
   }
 
   .inset-img {
-    border-color: white;
+    border-color: #000;
+  }
+
+  .chapter-ends {
+    border: transparent;
   }
 
 }
